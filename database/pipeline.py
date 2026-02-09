@@ -24,7 +24,7 @@ def run_pipeline():
     print("Iniciando carga a SQLite...")
     
     # Cargamos el .json
-    json_path = '../resultados.json'
+    json_path = '../scrapy_project/resultados.json'
     if not os.path.exists(json_path):
         print(f"No se pudo encontrar el archivo: {json_path}")
         return
