@@ -11,13 +11,16 @@ Este código cubre:
 
 1. **Instalar dependencias:**
     ```bash
-    pip install scrapy
+    pip install -r requirements.txt
     ```
 
-2. **Ejecutar comandos:**
+2. **Comandos a ejecutar:**
+    ### Creación de resultados.json (el dataset que usaremos)
     ```bash
+    cd scrapy_project
     scrapy crawl carrera
     ```
+    ### Creación de carrera_data.db (la base de datos)
     ```bash
     cd database
     python pipeline.py

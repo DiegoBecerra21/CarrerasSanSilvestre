@@ -1,0 +1,112 @@
+[
+    {
+        "location": "A Coruña",
+        "date": "31-12-2010",
+        "edicion": 2010,
+        "distancia": "7.5 km",
+        "posicion": "1",
+        "nombre": "Jose Manuel Vieito Vilacoba",
+        "sexo": "Hombre",
+        "categoria": "Categoría Desconocida",
+        "tiempo": "00:23:50"
+    },
+    {
+        "location": "A Coruña",
+        "date": "31-12-2011",
+        "edicion": 2011,
+        "distancia": "7.5 km",
+        "posicion": "1",
+        "nombre": "Marcos Antonio Seijo Bujía",
+        "sexo": "Hombre",
+        "categoria": "Categoría Desconocida",
+        "tiempo": "00:24:11"
+    },
+    {
+        "location": "A Coruña",
+        "date": "31-12-2012",
+        "edicion": 2012,
+        "distancia": "7.5 km",
+        "posicion": "1",
+        "nombre": "Ramon Serantes Gomez",
+        "sexo": "Hombre",
+        "categoria": "Categoría Desconocida",
+        "tiempo": "00:24:29"
+    },
+    {
+        "location": "A Coruña",
+        "date": "31-12-2014",
+        "edicion": 2014,
+        "distancia": "7.5 km",
+        "posicion": "1",
+        "nombre": "Abdelkader Bouguerrouj",
+        "sexo": "Hombre",
+        "categoria": "VETERANOS A MASC",
+        "tiempo": "00:20:55"
+    },
+    {
+        "location": "A Coruña",
+        "date": "31-12-2015",
+        "edicion": 2015,
+        "distancia": "7.5 km",
+        "posicion": "1",
+        "nombre": "Abdelaziz Fatihi Chhima",
+        "sexo": "Hombre",
+        "categoria": "SNM",
+        "tiempo": "00:24:19"
+    },
+    {
+        "location": "A Coruña",
+        "date": "31-12-2016",
+        "edicion": 2016,
+        "distancia": "7.5 km",
+        "posicion": "1",
+        "nombre": "Manuel Angel Penas Blanco",
+        "sexo": "Hombre",
+        "categoria": "VTAM",
+        "tiempo": "00:18:03"
+    },
+    {
+        "location": "A Coruña",
+        "date": "31-12-2017",
+        "edicion": 2017,
+        "distancia": "7.5 km",
+        "posicion": "1",
+        "nombre": "Alberto Castiñeira Figueroa",
+        "sexo": "Hombre",
+        "categoria": "SNM",
+        "tiempo": "00:21:02"
+    },
+    {
+        "location": "A Coruña",
+        "date": "31-12-2018",
+        "edicion": 2018,
+        "distancia": "7.5 km",
+        "posicion": "1",
+        "nombre": "Abdelaziz Fatihi Chhima",
+        "sexo": "Hombre",
+        "categoria": "SNM",
+        "tiempo": "00:20:54"
+    },
+    {
+        "location": "A Coruña",
+        "date": "31-12-2019",
+        "edicion": 2019,
+        "distancia": "7.5 km",
+        "posicion": "1",
+        "nombre": "Pablo Bocelo Bellas",
+        "sexo": "Hombre",
+        "categoria": "SNM",
+        "tiempo": "00:21:51"
+    },
+    {
+        "location": "A Coruña",
+        "date": "31-12-2021",
+        "edicion": 2021,
+        "distancia": "7.5 km",
+        "posicion": "1",
+        "nombre": "Nasr Bouchaib",
+        "sexo": "Hombre",
+        "categoria": "SNM",
+        "tiempo": "00:21:42"
+    }
+]
