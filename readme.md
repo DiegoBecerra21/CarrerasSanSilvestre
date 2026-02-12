@@ -52,7 +52,9 @@ pip install -r requirements.txt
     ```
 
 ### 3. Ejecución de la app Streamlit
-* Ejecutar el comando y usar la url proporcionada por la consola en el navegador,hay una local http://localhost:8501 , o una Network URL: http://IP....:8501
+* Ejecutar el comando y usar la url proporcionada por la consola en el navegador:
+* Hay una local http://localhost:8501 
+* O hay tambien una Network URL: http://IP....:8501
     ```bash
     cd dashboard
     streamlit run app.py
