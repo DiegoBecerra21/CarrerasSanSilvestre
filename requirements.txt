@@ -1,2 +1,7 @@
 scrapy
 sqlalchemy
+numpy
+pandas
+matplotlib
+seaborn
+streamlit
