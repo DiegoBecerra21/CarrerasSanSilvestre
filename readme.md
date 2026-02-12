@@ -24,7 +24,7 @@ Este repositorio abarca las primeras fases del ciclo de vida del dato (ETL):
 * `scrapy_project/`: Código del spider y configuración del crawler.
 * `database/`: Scripts de modelado de datos (SQLAlchemy) y pipeline de carga.
 * `data/`: Directorio destino para los archivos JSON y la base de datos `.db`.
-* * `analysis/`: Notebooks de Jupyter para análisis exploratorio (EDA), tendencias y métricas de rendimiento.
+* `analysis/`: Notebooks de Jupyter para análisis exploratorio (EDA), tendencias y métricas de rendimiento.
 * `dashboard/`: Código de la aplicación web interactiva (Streamlit) para visualización de datos.
 
 ---
